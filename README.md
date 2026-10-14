@@ -10,47 +10,47 @@
 
 <table>
 <tr>
-<td width="55%">
+<td valign="top">
 
 ```java
-// ~/Ashrafahmett/Hacker.java  ⚡ [ACCESS GRANTED]
-public class Hacker extends Developer implements AI, Systems, CyberSecurity {
+// Hacker.java ⚡ [ACCESS GRANTED]
+public class Hacker extends Developer
+        implements AI, Systems, CyberSec {
 
-    String name     = "Abdirashid Ahmed";
-    String handle   = "@Ashrafahmett";
-    String role     = "AI • Systems • Cybersecurity";
-    String status   = "> compiling the future...";
+  String name   = "Abdirashid Ahmed";
+  String role   = "AI • Systems • Security";
+  String status = "> compiling the future...";
 
-    String[] building = {
-        "OpenGym      // gym management system",
-        "SchoolSystem // student records in Java",
-        "MathTrainer  // sharpen your brain",
-    };
+  String[] building = {
+    "OpenGym      // gym system",
+    "SchoolSystem // Java app",
+    "MathTrainer  // brain gym",
+  };
 
-    String[] learning = {
-        "Artificial Intelligence & Machine Learning",
-        "Systems  -> Linux, Bash, System Design",
-        "Security -> Networking, CompTIA, Kali",
-    };
+  String[] learning = {
+    "AI & Machine Learning",
+    "Linux, Bash, System Design",
+    "Networking, CompTIA, Kali",
+  };
 
-    Map<String, String[]> stack = Map.of(
-        "core",     new String[]{"Java", "Python", "JavaScript"},
-        "web",      new String[]{"HTML", "CSS", "React"},
-        "ai",       new String[]{"TensorFlow", "Scikit-learn"},
-        "security", new String[]{"Linux", "Bash", "Wireshark"}
-    );
+  String[] stack = {
+    "Java", "Python", "JavaScript",
+    "TensorFlow", "Linux", "Bash",
+  };
 
-    public static void main(String[] args) {
-        while (alive) { learn(); build(); secure(); repeat(); }
+  public static void main(String[] a) {
+    while (alive) {
+      learn(); build(); secure();
     }
+  }
 }
 ```
 
-> *"The quieter you become, the more you are able to hear."* — Kali Linux
-
 </td>
-<td width="45%" align="center">
-  <img src="assets/workspace.webp" width="100%" />
+<td valign="top" align="center">
+  <img src="assets/workspace.webp" width="420" />
+  <br/><br/>
+  <i>"The quieter you become,<br/>the more you are able to hear."</i><br/>— Kali Linux
 </td>
 </tr>
 </table>
