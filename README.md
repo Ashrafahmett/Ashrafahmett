@@ -12,32 +12,41 @@
 <tr>
 <td width="55%">
 
-```js
-const abdirashid = {
-  role: "Developer | AI • Systems • Cybersecurity",
+```java
+// ~/Ashrafahmett/Hacker.java  ⚡ [ACCESS GRANTED]
+public class Hacker extends Developer implements AI, Systems, CyberSecurity {
 
-  building: [
-    "OpenGym — gym management system",
-    "School System",
-    "Math Trainer",
-  ],
+    String name     = "Abdirashid Ahmed";
+    String handle   = "@Ashrafahmett";
+    String role     = "AI • Systems • Cybersecurity";
+    String status   = "> compiling the future...";
 
-  learning: [
-    "Artificial Intelligence & Machine Learning",
-    "Systems — Linux, Bash, System Design",
-    "Cybersecurity — Networking, CompTIA",
-  ],
+    String[] building = {
+        "OpenGym      // gym management system",
+        "SchoolSystem // student records in Java",
+        "MathTrainer  // sharpen your brain",
+    };
 
-  tech: {
-    frontend: ["HTML", "CSS", "JavaScript"],
-    backend:  ["Java", "Python"],
-    ai:       ["Python", "Scikit-learn", "TensorFlow"],
-    security: ["Linux", "Bash", "Networking"],
-  },
-};
+    String[] learning = {
+        "Artificial Intelligence & Machine Learning",
+        "Systems  -> Linux, Bash, System Design",
+        "Security -> Networking, CompTIA, Kali",
+    };
+
+    Map<String, String[]> stack = Map.of(
+        "core",     new String[]{"Java", "Python", "JavaScript"},
+        "web",      new String[]{"HTML", "CSS", "React"},
+        "ai",       new String[]{"TensorFlow", "Scikit-learn"},
+        "security", new String[]{"Linux", "Bash", "Wireshark"}
+    );
+
+    public static void main(String[] args) {
+        while (alive) { learn(); build(); secure(); repeat(); }
+    }
+}
 ```
 
-> *"Talk is cheap. Show me the code."* — Linus Torvalds
+> *"The quieter you become, the more you are able to hear."* — Kali Linux
 
 </td>
 <td width="45%" align="center">
