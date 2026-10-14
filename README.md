@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=ABDIRASHID%20AHMED&fontSize=56&fontColor=ffffff&desc=Full%20Stack%20Developer%20|%20Java%20%26%20JavaScript%20|%20Linux%20%26%20Networking&descAlignY=65&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0208,50:5c0a14,100:b3001b&height=200&section=header&text=ABDIRASHID%20AHMED&fontSize=56&fontColor=ffffff&desc=AI%20%7C%20Systems%20%7C%20Cybersecurity%20%7C%20Full%20Stack%20Developer&descAlignY=65&descSize=18" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Abdirashid+%F0%9F%91%8B;Full+Stack+Developer;Learning+Bash%2C+Python+%26+Networking;Always+building+something+new" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF3B3B&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Abdirashid+%F0%9F%91%8B;Learning+Artificial+Intelligence+%F0%9F%A4%96;Building+Systems+%E2%9A%99%EF%B8%8F;Exploring+Cybersecurity+%F0%9F%9B%A1%EF%B8%8F;Always+building+something+new" />
 </p>
 
 ## 🎯 About Me
@@ -14,7 +14,7 @@
 
 ```js
 const abdirashid = {
-  role: "Full Stack Developer",
+  role: "Developer | AI • Systems • Cybersecurity",
 
   building: [
     "OpenGym — gym management system",
@@ -23,16 +23,16 @@ const abdirashid = {
   ],
 
   learning: [
-    "Bash Scripting",
-    "Python",
-    "Networking",
-    "CompTIA",
+    "Artificial Intelligence & Machine Learning",
+    "Systems — Linux, Bash, System Design",
+    "Cybersecurity — Networking, CompTIA",
   ],
 
   tech: {
     frontend: ["HTML", "CSS", "JavaScript"],
     backend:  ["Java", "Python"],
-    tools:    ["Git", "Linux", "Bash"],
+    ai:       ["Python", "Scikit-learn", "TensorFlow"],
+    security: ["Linux", "Bash", "Networking"],
   },
 };
 ```
@@ -41,7 +41,7 @@ const abdirashid = {
 
 </td>
 <td width="45%" align="center">
-  <img src="https://raw.githubusercontent.com/Ashrafahmett/Ashrafahmett/output/github-snake-dark.svg" width="100%" />
+  <img src="assets/workspace.webp" width="100%" />
 </td>
 </tr>
 </table>
@@ -55,10 +55,13 @@ const abdirashid = {
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,python,html,css,bash,linux,git,github,vscode,mysql,spring,react,nodejs&perline=14" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,java,js,html,css,bash,linux,kali,git,github,vscode,mysql,docker,react&perline=16" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-FF3B3B?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-8B0000?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/CompTIA-C8202F?style=for-the-badge&logo=comptia&logoColor=white" />
   <img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
@@ -94,6 +97,10 @@ const abdirashid = {
   <img src="https://streak-stats.demolab.com?user=Ashrafahmett&theme=github-dark-blue&hide_border=true" width="90%" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ashrafahmett/Ashrafahmett/output/github-snake-dark.svg" width="90%" />
+</p>
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -101,5 +108,5 @@ const abdirashid = {
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ashrafahmett&style=for-the-badge&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=Ashrafahmett&style=for-the-badge&color=red" />
 </p>
